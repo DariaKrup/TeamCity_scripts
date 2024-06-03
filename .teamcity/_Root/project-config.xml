@@ -3,7 +3,7 @@
   <name>&lt;Root project&gt;</name>
   <description>Contains all other projects</description>
   <parameters>
-    <param name="text_root_parameter" value="text_value" />
+    <param name="text_root_parameter" value="" spec="select label_3='2' display='normal' data_1='a1' label_1='1' data_3='a2'" />
   </parameters>
   <project-extensions>
     <extension id="PROJECT_EXT_1" type="ReportTab">
