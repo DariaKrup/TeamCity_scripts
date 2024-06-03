@@ -5,7 +5,7 @@
   <settings>
     <parameters />
     <build-runners>
-      <runner id="python_runner" name="Simplex: main.py" type="python-runner">
+      <runner id="python_runner" name="Simplex:main.py" type="python-runner">
         <parameters>
           <param name="command" value="file" />
           <param name="coverageArgs" value="--omit=*lib*" />
@@ -22,7 +22,7 @@
           <param name="virtualenvFile" value="requirements.txt" />
         </parameters>
       </runner>
-      <runner id="python_runner_1" name="Transport: main.py" type="python-runner">
+      <runner id="python_runner_1" name="Transport:main.py" type="python-runner">
         <parameters>
           <param name="command" value="file" />
           <param name="coverageArgs" value="--omit=*lib*" />
