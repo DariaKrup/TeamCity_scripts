@@ -6,7 +6,7 @@
   <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
-  <param name="secure:password" value="credentialsJSON:54db258a-2cfe-4a94-82a8-66b7d979c784" />
+  <param name="secure:password" value="credentialsJSON:4f4cec34-6d30-4a79-8687-a4c5c2d92804" />
   <param name="submoduleCheckout" value="CHECKOUT" />
   <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/DariaKrup/optimization.git" />

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="48c76cc0-a25f-423f-b1e7-2cc1e2a5ee98" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
   <name>Optimization</name>
-  <parameters />
+  <parameters>
+    <param name="text_root_parameter" value="overriden" />
+  </parameters>
+  <project-extensions>
+    <extension id="PROJECT_EXT_1" type="versionedSettings">
+      <parameters>
+        <param name="ignoreChangesInDependenciesAndVcsSettings" value="false" />
+      </parameters>
+    </extension>
+  </project-extensions>
   <cleanup />
 </project>
 
