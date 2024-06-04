@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="cd269194-14b7-45c4-8f37-e1a59b6c958c" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
+  <name>From VCS root: new w/o context parameter</name>
+  <parameters />
+  <cleanup />
+</project>
+
