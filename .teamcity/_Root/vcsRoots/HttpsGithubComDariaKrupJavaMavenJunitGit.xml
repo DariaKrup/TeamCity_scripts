@@ -3,9 +3,10 @@
   <name>https://github.com/DariaKrup/java-maven-junit.git</name>
   <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
   <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
-  <param name="authMethod" value="ANONYMOUS" />
+  <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="credentialsJSON:54db258a-2cfe-4a94-82a8-66b7d979c784" />
   <param name="submoduleCheckout" value="CHECKOUT" />
   <param name="url" value="https://github.com/DariaKrup/java-maven-junit.git" />
   <param name="useAlternates" value="AUTO" />
